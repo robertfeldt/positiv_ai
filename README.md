@@ -17,8 +17,8 @@ Det gör katalogen till en designmönstersamling — användbar för forskare, r
 
 ## Första exempel (under arbete)
 
-- **Multi-persona viewpoint-analys för klimatförhandlingar** — AI som gestaltar olika aktörers perspektiv för att skapa nyansering och förståelse i Global Climate Summits (studie med Tove Engwall, kopplad till Paris-avtalets Global Stocktake).
-- **LLM-stödd innehållsanalys av ensamhet** — AI som hjälper oss förstå ensamhetens mönster i svenska paneldata (SOM-institutet).
+- **Multi-persona viewpoint-analys för klimatförhandlingar** — AI som gestaltar olika aktörers perspektiv för att skapa nyansering och förståelse i samhällsfrågor.
+- **LLM-stödd innehållsanalys av medborgarundersökningar** — AI som hjälper oss förstå människor och deras situation.
 
 ## Status
 
