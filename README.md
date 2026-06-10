@@ -29,8 +29,7 @@ Det gör katalogen till en samling designmönster — användbar för forskare, 
 
 **Skills:**
 
-- **Perspektivbyte** — låt AI gestalta hur en fråga ser ut från andra aktörers, gruppers eller traditioners synvinkel innan du tar ställning.
-- **Nyansering av egna antaganden** — låt AI argumentera emot din position, hitta det starkaste motargumentet och det du inte ser.
+- **[nyansera](skills/nyansera/)** — bredda och nyansera ett argument eller en utgångspunkt: dolda antaganden, genuint olika perspektiv (perspektivbyte), det starkaste motargumentet, och en nyanserad omformulering. Fungerar i agentiska miljöer (Claude Code, pi, Codex, opencode) och som ren copy-paste-prompt (svenska och engelska) i valfri AI-chatt.
 
 ## Status
 
