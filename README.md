@@ -29,7 +29,7 @@ Det gör katalogen till en samling designmönster — användbar för forskare, 
 
 **Skills:**
 
-- **[nyansera](skills/nyansera/)** — bredda och nyansera ett argument eller en utgångspunkt: dolda antaganden, genuint olika perspektiv (perspektivbyte), det starkaste motargumentet, och en nyanserad omformulering. Fungerar i agentiska miljöer (Claude Code, pi, Codex, opencode) och som ren copy-paste-prompt (svenska och engelska) i valfri AI-chatt.
+- **[nyansera](skills/nyansera/)** — bredda och nyansera ett argument eller en utgångspunkt: dolda antaganden, genuint olika perspektiv (perspektivbyte), det starkaste motargumentet, och en nyanserad omformulering. Fungerar i agentiska miljöer (Claude Code, pi, Codex, opencode) och som ren copy-paste-prompt (svenska och engelska) i valfri AI-chatt. Se [ett genomfört exempel](examples/nyansera_inkrokthet/) där skillen prövar ett argument om "inkrökthet" och ungas psykiska ohälsa.
 
 ## Status
 
